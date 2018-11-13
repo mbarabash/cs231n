@@ -1,7 +1,7 @@
 # cs231n
 My completed homework assignments for Stanford's cs231n "Audited" Course
 
-This is a repository containing the homework for the Stanford graduate course cs231n. I audited this course over the course of Summer 2018, and my knowledge of nueral networks stems almost exclusively from this course.
+This is a repository containing the homework for the Stanford graduate course cs231n. I audited this course over the course of Summer 2018.
 
 My code can be found by looking for "TODO" comments. (The initial drafts of the files were supplied with the homework assignment)
 

@@ -1,5 +1,4 @@
 # cs231n
-My completed homework assignments for Stanford's cs231n "Audited" Course
 
 This is a repository containing the homework for the Stanford graduate course cs231n. I audited this course over the course of Summer 2018.
 

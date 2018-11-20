@@ -4,6 +4,6 @@ This is a repository containing the homework for the Stanford graduate course cs
 
 My code can be found by looking for "TODO" comments. (The initial drafts of the files were supplied with the homework assignment)
 
-The directly executed code can be found in files \*.ipnb, however most of the code that I wrote is contained in subdirectories in assignment\*/cs231n/classifiers and assignment\*/cs231n
+The directly executed code can be found in files \*.ipnb, however most of the code that I wrote is contained in subdirectories in assignment/cs231n/classifiers and assignment/cs231n
 
 http://cs231n.github.io/

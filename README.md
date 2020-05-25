@@ -1,6 +1,6 @@
 # cs231n
 
-This is a repository containing the homework for the Stanford graduate course on convolutional nueral network cs231n. I audited this course over the course of Summer 2018.
+This is a repository containing the homework for the Stanford graduate course on convolutional nueral networks cs231n. I audited this course over the course of Summer 2018.
 
 My code can be found by looking for "TODO" comments. (The initial drafts of the files were supplied with the homework assignment)
 
